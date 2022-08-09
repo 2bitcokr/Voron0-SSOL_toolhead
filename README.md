@@ -102,3 +102,17 @@ modify fansaver for 3010fan.
 ![fansaver](https://user-images.githubusercontent.com/110684743/183633617-d526e1c8-253e-41ed-8138-533432e7a0b5.png)
 
 
+# CanBUS / Toolheadboard
+
+The Flymaker EBB36 / SHT36 / RHT36 model is
+It's really optimized for Vzero.
+If you want to replace multiple toolheads
+
+If you use the Toolheadboard on all tool heads,
+The toolhead can be replaced in less than Just 1 minute.
+![KakaoTalk_20220809_202830313](https://user-images.githubusercontent.com/110684743/183637019-502fdde9-052c-408e-9aff-d3a802df5a7e.jpg)
+![KakaoTalk_20220809_202830313_02](https://user-images.githubusercontent.com/110684743/183637037-f00ccfe3-d9ca-4bfa-bc81-83a382f5b779.jpg)
+
+![KakaoTalk_20220809_202830313_01](https://user-images.githubusercontent.com/110684743/183637066-49a2c845-c952-43cd-98c9-d30cbadcad19.jpg)
+![KakaoTalk_20220809_202830313_03](https://user-images.githubusercontent.com/110684743/183637080-8c5ee700-6419-4a2b-99c9-1a142a3c3ea1.jpg)
+
