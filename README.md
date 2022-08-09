@@ -18,6 +18,13 @@ Klicky https://github.com/jlas1/Klicky-Probe
 FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jappaj/FanSaver
 
 
+Need some extra bolts and nuts.
+(Most used as before BOM item)
+Most use M3 bolts,
+If the hole is large , insert nut (M3x5x4 insert 
+![Insertnut](https://user-images.githubusercontent.com/110684743/183639449-545a8ced-5fe3-4717-92e3-ba787e843f28.png)
+
+
 # Surpport  Hotend 
 ![Hotend](https://user-images.githubusercontent.com/110684743/183629285-1fd632dc-63b1-4234-9d5d-65d370ef9e32.png)
 
