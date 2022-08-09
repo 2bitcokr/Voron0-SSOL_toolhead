@@ -71,12 +71,17 @@ Use PC4-M6 (option) (Have you ever experienced the Teflontube coming off when in
 
 # FAN MOUNT
 If you use CanBUS(EBB,SHT36) , RHT expansion board
+
 Need Extender Board cooling .
+
 If Nofan, MCU temperature is 80~90 ℃.
+
 USED FAN, MCU temperature is 60~70 ℃. ( Chamber Temperature+10℃)
 
 Fan mounts are 2 STLs. (defualt,Mirror)
+
 FAN cooling both the motor and the board.
+
 Test results are very good with 1FAN.
 
 ![AType_OrbiterV2_LGXLite](https://user-images.githubusercontent.com/110684743/183629411-0dd52714-6a15-49d5-a051-bf9d5bd46da1.png)
