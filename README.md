@@ -28,7 +28,8 @@ If the hole is large , insert nut (M3x5x4 insert
 
 
 # Surpport  Hotend 
-![Hotend](https://user-images.githubusercontent.com/110684743/183629285-1fd632dc-63b1-4234-9d5d-65d370ef9e32.png)
+![Hotend](https://user-images.githubusercontent.com/110684743/183648361-d3972f76-e4d9-46b7-b91f-ae5d93a2b0ab.png)
+
 
 -V6 DUCT = V6 / REVO SIX /  NFZone V6 / Trianglelab,Mellow V6 / Slice Copperhead(groove) / Phaetus BMO 
 
