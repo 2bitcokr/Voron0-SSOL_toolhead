@@ -46,6 +46,7 @@ SherpaMini
 Sailfin
 
 I made some changes to the sailfin extruder design.
+
 Change gear alignment
 Change bolt, insertnut position
 Change shaft to bolt,insertnut
