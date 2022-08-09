@@ -67,3 +67,20 @@ Change bolt, insertnut position
 Change shaft to bolt,insertnut(If you are changing from an existing miniAB, there is no shaft.)
 
 Use PC4-M6 (option) (Have you ever experienced the Teflontube coming off when insert filament? I always modify tubefittings on all extruders.
+
+
+# FAN MOUNT
+If you use CanBUS(EBB,SHT36) , RHT expansion board
+Need Extender Board cooling .
+If Nofan, MCU temperature is 80~90 ℃.
+USED FAN, MCU temperature is 60~70 ℃. ( Chamber Temperature+10℃)
+
+Fan mounts are 2 STLs. (defualt,Mirror)
+FAN cooling both the motor and the board.
+Test results are very good with 1FAN.
+
+![AType_OrbiterV2_LGXLite](https://user-images.githubusercontent.com/110684743/183629411-0dd52714-6a15-49d5-a051-bf9d5bd46da1.png)
+![FAN](https://user-images.githubusercontent.com/110684743/183629416-4422dae8-92e0-4757-a2de-d5cba05ab122.png)
+![FAN2](https://user-images.githubusercontent.com/110684743/183629438-c4565a7e-af57-482c-806b-35d1365911cf.png)
+
+
