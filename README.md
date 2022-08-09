@@ -19,8 +19,7 @@ FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/japp
 
 
 # Surpport  Hotend 
-
-[Hotend](https://user-images.githubusercontent.com/110684743/183629066-4e744b95-ab34-4b95-ace4-eb0ba14b0f88.png)
+![Hotend](https://user-images.githubusercontent.com/110684743/183629285-1fd632dc-63b1-4234-9d5d-65d370ef9e32.png)
 
 -V6 DUCT = V6 / REVO SIX /  NFZone V6 / Trianglelab,Mellow V6 / Slice Copperhead(groove) / Phaetus BMO 
 
