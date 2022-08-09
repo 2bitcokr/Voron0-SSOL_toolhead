@@ -72,6 +72,8 @@ https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 Sailfin (recommend)
 https://github.com/CroXY3D/Sailfin-Extruder
 
+![sailfin](https://user-images.githubusercontent.com/110684743/183652720-690de53e-f76a-4d65-81f8-7100f1d87c54.png)
+
 
 I made some changes to the sailfin extruder design.
 
