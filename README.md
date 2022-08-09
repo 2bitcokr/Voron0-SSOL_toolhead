@@ -13,6 +13,8 @@ recommended to apply 3MOD
 
 MGN9C MOD (Need Changed X_carrage)
 
+I only tested this on the MGN9C. recommend 9C rail MOD.
+
 Klicky https://github.com/jlas1/Klicky-Probe
 
 FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jappaj/FanSaver
