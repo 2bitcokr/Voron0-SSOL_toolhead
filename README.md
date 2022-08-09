@@ -22,7 +22,8 @@ Dragon Duct = Trianglelab(Phaetus) Dragon / DragonFly BMO
 Mosquito Duct = Slices Mosquito / NFCrazy 
 
 
-Most recommended V6+CHC(trianglelab) is BEST 
+Most recommended V6+CHC(trianglelab) is BEST .
+
 Not recommend Mosquito (heatsink structure is Near to 3010blowerFAN. 3010BlowerFAN PWM chip will die.)
 
 
