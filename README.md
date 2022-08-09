@@ -93,7 +93,10 @@ Test results are very good with 1FAN.
 FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jappaj/FanSaver
 
 Fansaver is need for 3010blower fans.
+
 I made some modify for V6 and Dragon.
+
 And, NFzone can be use 3010Fan.
+
 modify fansaver for 3010fan.
 
