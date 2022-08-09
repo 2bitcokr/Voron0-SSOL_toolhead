@@ -12,13 +12,13 @@ FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/japp
 
 # Surpport  Hotend 
 
-V6 DUCT = V6 / REVO SIX /  NFZone V6 / Trianglelab,Mellow V6 / Slice Copperhead(groove) / Phaetus BMO 
+-V6 DUCT = V6 / REVO SIX /  NFZone V6 / Trianglelab,Mellow V6 / Slice Copperhead(groove) / Phaetus BMO 
 
-Micro Duct = V6Micro(threaded) / REVO micro 
+-Micro Duct = V6Micro(threaded) / REVO micro 
 
-Dragon Duct = Trianglelab(Phaetus) Dragon / DragonFly BMO 
+-Dragon Duct = Trianglelab(Phaetus) Dragon / DragonFly BMO 
 
-Mosquito Duct = Slices Mosquito / NFCrazy 
+-Mosquito Duct = Slices Mosquito / NFCrazy 
 
 
 
@@ -32,14 +32,14 @@ Not recommend Mosquito,NFCrazy (It can kill a blowerfan. heatsink structure is N
 Duct A and duct B are not compatible.
 (B ducts are not fitted with Orbiter. )
 
-A DCUT (USED Big Gear , New Extruder !!)
+-A DCUT (USED Big Gear , New Extruder !!)
 
 LDO Orbiter V2.0
 
 Bontech LGX Lite
 
 
-B DUCT (can use before BMG(MiniAB) gears.)
+-B DUCT (can use before BMG(MiniAB) gears.)
 
 SherpaMini
 
