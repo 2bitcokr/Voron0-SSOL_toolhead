@@ -108,6 +108,9 @@ Test results are very good with 1FAN.
 ![FAN](https://user-images.githubusercontent.com/110684743/183629416-4422dae8-92e0-4757-a2de-d5cba05ab122.png)
 ![FAN2](https://user-images.githubusercontent.com/110684743/183629438-c4565a7e-af57-482c-806b-35d1365911cf.png)
 
+Also compatible with MiniAB 
+![KakaoTalk_20220809_221840444](https://user-images.githubusercontent.com/110684743/183657152-e28ac1c2-4942-4475-bfe7-f615a34b9d7e.jpg)
+
 
 # Fansaver
 FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jappaj/FanSaver
@@ -120,6 +123,8 @@ And, NFzone can be use 3010Fan.
 
 modify fansaver for 3010fan.
 ![fansaver](https://user-images.githubusercontent.com/110684743/183633617-d526e1c8-253e-41ed-8138-533432e7a0b5.png)
+
+
 
 
 # CanBUS / Toolheadboard
