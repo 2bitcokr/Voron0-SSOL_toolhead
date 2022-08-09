@@ -52,7 +52,10 @@ Duct A and duct B are not compatible.
 (B ducts are not fitted with Orbiter. )
 ![AorB](https://user-images.githubusercontent.com/110684743/183629159-d4d5dcb6-6f35-4ced-8581-634f9e71aacf.png)
 
--A DT (USED Big Gear , New Extruder !!)
+-A DUCT (USED Big Gear , New Extruder !!)
+
+recommend  OrbiterV2,LGXLite good performance,
+
 
 LDO Orbiter V2.0
 https://orbiterprojects.com/orbiter-v2-0/
