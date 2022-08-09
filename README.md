@@ -14,7 +14,8 @@ FANsaver
  Not List , But Same Mount is Same Compatible
 
 V6 DUCT ( V6 / REVO SIX /  NFZone V6 / Trianglelab,Mellow V6 / Slice Copperhead(groove) / Phaetus BMO )
- Most recommended.( V6+CHC(trianglelab) is BEST )
+
+Most recommended.( V6+CHC(trianglelab) is BEST )
  
 Micro Duct ( V6Micro(threaded) / REVO micro )
 
