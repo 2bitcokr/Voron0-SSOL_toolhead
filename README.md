@@ -48,8 +48,9 @@ Sailfin
 I made some changes to the sailfin extruder design.
 
 Change gear alignment
+
 Change bolt, insertnut position
-Change shaft to bolt,insertnut
-(If you are changing from an existing miniAB, there is no shaft.)
-Use PC4-M6 (option)
-(Have you ever experienced the Teflontube coming off when insert filament? I always modify tubefittings on all extruders.
+
+Change shaft to bolt,insertnut(If you are changing from an existing miniAB, there is no shaft.)
+
+Use PC4-M6 (option) (Have you ever experienced the Teflontube coming off when insert filament? I always modify tubefittings on all extruders.
