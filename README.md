@@ -54,8 +54,10 @@ Duct A and duct B are not compatible.
 -A DCUT (USED Big Gear , New Extruder !!)
 
 LDO Orbiter V2.0
+https://orbiterprojects.com/orbiter-v2-0/
 
 Bontech LGX Lite!
+https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
 
 
 
@@ -64,8 +66,11 @@ Bontech LGX Lite!
 -B DUCT (can use before BMG(MiniAB) gears.)
 
 SherpaMini
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
-Sailfin
+Sailfin (recommend)
+https://github.com/CroXY3D/Sailfin-Extruder
+
 
 I made some changes to the sailfin extruder design.
 
