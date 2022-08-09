@@ -8,11 +8,15 @@ This Design Based on the https://github.com/PrintersForAnts/Mini-AfterSherpa
 
 Supports 
 V0 / V0.1 
+
+recommended to apply 3MOD
+
 MGN9C MOD (Need Changed X_carrage)
 
 Klicky https://github.com/jlas1/Klicky-Probe
 
 FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jappaj/FanSaver
+
 
 # Surpport  Hotend 
 
