@@ -60,7 +60,7 @@ recommend  OrbiterV2,LGXLite good performance,
 LDO Orbiter V2.0
 https://orbiterprojects.com/orbiter-v2-0/
 
-Bontech LGX Lite!
+Bontech LGX Lite! 
 https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
 
 
@@ -69,11 +69,16 @@ https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
 
 -B DUCT (can use before BMG(MiniAB) gears.)
 
+Bontech LGX Lite! (Bduct type Recommend)
+https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
+
 SherpaMini
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
-Sailfin (recommend)
+Sailfin (origianl version = Not compatible EBB36,SHT36,RHT36 )
 https://github.com/CroXY3D/Sailfin-Extruder
+
+Sailfin (2bitversion = comingsoon~~  Last version is being tested.  with RHT36,EBB36 ) 
 
 ![sailfin](https://user-images.githubusercontent.com/110684743/183652720-690de53e-f76a-4d65-81f8-7100f1d87c54.png)
 
