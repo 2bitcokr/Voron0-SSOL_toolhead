@@ -78,9 +78,10 @@ https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 Sailfin (origianl version = Not compatible EBB36,SHT36,RHT36 )
 https://github.com/CroXY3D/Sailfin-Extruder
 
-Sailfin (2bitversion = comingsoon~~  Last version is being tested.  with RHT36,EBB36 ) 
+Sailfin (2bitversion = compatible RHT36,EBB36,SHT36  ) 
+![sailfin](https://user-images.githubusercontent.com/110684743/186203663-2a6b9436-3e1e-4057-ace7-8e6675046100.png)
 
-![sailfin](https://user-images.githubusercontent.com/110684743/183652720-690de53e-f76a-4d65-81f8-7100f1d87c54.png)
+
 
 
 I made some changes to the sailfin extruder design.
