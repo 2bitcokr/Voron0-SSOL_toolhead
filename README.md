@@ -26,6 +26,9 @@ Most use M3 bolts,
 If the hole is large , insert nut (M3x5x4 insert 
 ![Insertnut](https://user-images.githubusercontent.com/110684743/183639449-545a8ced-5fe3-4717-92e3-ba787e843f28.png)
 
+![image](https://user-images.githubusercontent.com/110684743/188689747-deef9c7d-e6cf-4790-bb4e-49ae0274f5cb.png)
+
+
 
 # Surpport  Hotend 
 ![Hotend](https://user-images.githubusercontent.com/110684743/183648361-d3972f76-e4d9-46b7-b91f-ae5d93a2b0ab.png)
@@ -64,7 +67,6 @@ https://orbiterprojects.com/orbiter-v2-0/
 Bontech LGX Lite! (Lgxlite is B Dcut Recommend)
 https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
 
-![image](https://user-images.githubusercontent.com/110684743/188688915-2e5970e9-3cef-482d-a32d-9a38c8002d49.png)
 
 
 
