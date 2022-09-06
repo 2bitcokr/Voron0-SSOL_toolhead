@@ -53,7 +53,8 @@ Duct A and duct B are not compatible.
 
 -A DUCT (USED Big Gear , New Extruder !!)
 
-recommend  OrbiterV2,LGXLite good performance,
+recommend  OrbiterV2,LGXLite good performance
+
 ![bduct](https://user-images.githubusercontent.com/110684743/188689349-4bd53708-b3e5-4c42-9b59-75da39632ca8.png)
 
 
