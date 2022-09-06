@@ -50,18 +50,21 @@ Not recommend Mosquito,NFCrazy (It can kill a blowerfan. heatsink structure is N
 # Surpport Extruder
 Duct A and duct B are not compatible.
 (B ducts are not fitted with Orbiter. )
-![AorB](https://user-images.githubusercontent.com/110684743/183629159-d4d5dcb6-6f35-4ced-8581-634f9e71aacf.png)
 
 -A DUCT (USED Big Gear , New Extruder !!)
 
 recommend  OrbiterV2,LGXLite good performance,
+![bduct](https://user-images.githubusercontent.com/110684743/188689349-4bd53708-b3e5-4c42-9b59-75da39632ca8.png)
 
 
 LDO Orbiter V2.0
 https://orbiterprojects.com/orbiter-v2-0/
 
-Bontech LGX Lite! 
+Bontech LGX Lite! (Lgxlite is B Dcut Recommend)
 https://www.bondtech.se/product/lgx-lite-extruder-no-motor/
+
+![image](https://user-images.githubusercontent.com/110684743/188688915-2e5970e9-3cef-482d-a32d-9a38c8002d49.png)
+
 
 
 
