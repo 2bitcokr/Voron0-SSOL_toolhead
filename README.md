@@ -24,24 +24,23 @@ FANsaver https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/japp
 Same VORON PARTS setting
 (infill 40% , 4wall )
 
-But, X_carriage is infill 100% !!
+X_Carriage is MGN7H (original) / MGN9C MOD 
 
-If possible, it is very good to apply SLS or SLM , Metal.
+ALL = All compatible ... But EasyCrack.. Need Infill 100% or METAL or SLM   (Lgxlite only All Version)
 
-Carriage For_XXXX is exclusive parts.
+Safe to use a carriage that fits the extruder.
 
-Not compatible with other extruders.
-
-(It is designed to be a little strong.)
+![image](https://user-images.githubusercontent.com/110684743/188689747-deef9c7d-e6cf-4790-bb4e-49ae0274f5cb.png)
 
 
+#BOM
 Need some extra bolts and nuts.
 (Most used as before BOM item)
 Most use M3 bolts,
 If the hole is large , insert nut (M3x5x4 insert 
 ![Insertnut](https://user-images.githubusercontent.com/110684743/183639449-545a8ced-5fe3-4717-92e3-ba787e843f28.png)
 
-![image](https://user-images.githubusercontent.com/110684743/188689747-deef9c7d-e6cf-4790-bb4e-49ae0274f5cb.png)
+
 
 
 
